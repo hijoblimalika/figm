@@ -1,0 +1,53 @@
+@media screen and (max-width:1069px){
+    .navbar{
+        display: none;
+    }
+    .box{
+        display: inline;
+
+    }
+}
+@media screen and (max-width:1062px){
+    .box{
+        width: 40%;
+    }
+
+}
+@media screen and (max-width:736px){
+.how{
+    width: 60%;
+    display: block;
+    margin-left: 35%;
+}
+}
+@media screen and (max-width:771px){
+    .gamburger img{
+        margin-left: 300px;
+    }
+}
+@media screen and (max-width:852px){
+    .nav_top22 h1{
+        width: 50%;
+        font-size: 20px;
+    }
+    .nav_top22 p{
+        width: 60%;
+    }
+}
+@media screen and (max-width:729px){
+    .nav_top22 h1{
+        width: 50%;
+        font-size: 20px;
+    }
+    .nav_top22 p{
+        width: 80%;
+      font-size: 10px;
+        
+       
+    }  
+    .nav_top22 button{
+        width: 80px;
+        height: 4vh;
+        font-size: 10px;
+    } 
+}
