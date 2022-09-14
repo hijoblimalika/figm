@@ -51,3 +51,86 @@
         font-size: 10px;
     } 
 }
+@media screen and (max-width:200px){
+    .item{
+        display: none;
+        
+    }
+    .naimg{
+        transform: translateX(350px);
+    }
+    .nav_top1{
+        display: block;
+    }
+    .nav_text3{
+        width: 350%;
+        margin-left: 50%;
+    }
+    .nav_text3_pp{
+        width: 300%;
+        font-size: 30px;
+        margin-left: 50%;
+
+    }
+    .nav_top1 button{
+        margin-left: 150%;
+        width: 240px;
+        height: 100px;
+        font-size: 30px;
+    }
+    .nav_top1 img{
+        margin-left: 80%;
+    }
+  .nav_top2{
+    display: block;
+  }
+  .nav_top22 h1{
+    width: 350%;
+    margin-left: 70%;
+    font-size: 60px;
+  }
+  .nav_top22 p{
+    width: 300%;
+    margin-left: 120px;
+    font-size: 30px;
+  }
+  .nav_top22 button{
+    margin-left: 150%;
+    width: 240px;
+    height: 100px;
+    font-size: 30px
+  }
+  .gamburger img{
+    margin-top: 40%;
+    transform: translateX(-210px);
+  }
+  .how_text h1{
+    width: 300%;
+    margin-top: 40%;
+    margin-left:125%;
+  }
+  .box img{
+    width: 600px;
+  }
+  .how_bb{
+   
+    display: none;
+  }
+  .how_pp{
+    display: none;
+  }
+  .box p{
+    color: red;
+    display: none;
+
+  }
+  .brow_text h1{
+    width: 500%;
+    font-size: 80px;
+  }
+  .brow_text p{
+    width: 250%;
+    margin-left: 70%;
+    font-size: 30px;
+  }
+}
