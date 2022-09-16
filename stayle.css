@@ -179,3 +179,181 @@ width: 25%;
     background: #35B8BE;
     cursor: pointer;
 }
+.narxx{
+    display: flex;
+}
+
+.narx{
+    width: 480px;
+    height: 200px;
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 3%;
+    background-color: #35b7be0f;
+}
+.narx img{
+    margin-top: 40px;
+    margin-left: 26px;
+}
+
+.narx p{
+    width: 45%;
+    font-size: 15px;
+    margin-left: 76px;
+    margin-top: 73px;
+}
+.bir{
+    width: 50px;
+    height: 35px;
+    border: .3px solid rgba(128, 128, 128, 0.115);
+    margin-left: 176px;
+    transform: translateY(-25px);
+}
+.bir:hover{
+    cursor: pointer;
+    background-color: #35B8BE;
+    color: #fff;
+}
+.add_to{
+    width: 95px;
+    height: 35px;
+    background: #35B8BE;
+    border: none;
+    transform: translateY(-25px);
+    color: #ffff;
+
+
+
+}
+.add_to:hover{
+    border: 2px solid #35b8be;
+    background: #ffff;
+    color: #35b8be;
+    cursor: pointer;
+
+}
+.nar_text{
+    display: flex;
+}
+
+
+.narxs{
+    display: flex;
+}
+
+
+.ord_img{
+margin-left: 100px;
+transform: translateY(-500px);
+
+}
+.order_text h2{
+    width: 529px;
+    height: 110px;
+    font-weight: 400;
+    font-size: 50px;
+    color: #35b8be;
+    margin-left: 742px;
+    margin-top: 257px;
+}
+.order_text p{
+    width: 529px;
+    height: 110px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #546285;
+    margin-left: 742px;
+    margin-top: 26px;
+}
+.ord_btn{
+    width: 152px;
+    height:50px ;
+    margin-left: 742px;
+    border: none;
+    background: #35B8BE;
+    color: #fff;
+}
+.ord_btn:hover{
+    border: 2px solid #35B8BE;
+    background: #fff;
+    color: #35b8be;
+    cursor: pointer;
+}
+.ord_imgg{
+    margin-left: 758px;
+    transform: translateY(-500px);
+
+}
+
+.order_textt h2{
+    width: 529px;
+    height: 110px;
+    font-weight: 400;
+    font-size: 50px;
+    color: #35b8be;
+    margin-left: 120px;
+}
+.order_textt p{
+    width: 529px;
+    height: 110px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #546285;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.ord_btnn{
+    width: 152px;
+    height:50px ;
+    margin-left: 120    px;
+    border: none;
+    background: #35B8BE;
+    color: #fff;
+
+}
+.galarea{
+    display: flex;
+}
+.galarea img{
+    width: 666px;
+    height: 640px;
+    margin-left: 5%;
+}
+.futr{
+    width:100% ;
+    height:593px ;
+    background-color: #F5FBFC;
+    display: flex;
+    
+}
+.futr_icon{
+    margin-left: 150px;
+    padding-top: 150px;
+}
+.futr_icon p{
+    font-size: 10px;
+    width: 150px;
+}
+.company{
+    list-style: none;
+    margin-left: 200px;
+    padding-top: 200px;
+
+}
+.companiyaa{
+    margin-left: 50px;
+    font-size: 13px;
+    margin-top: 25px;
+}
+.iconcalar{
+    display: flex;
+    margin-left: 1351px;
+
+}
+.iconcalar i{
+font-size: 30px;
+color: rgba(69, 66, 66, 0.749);
+margin-left: 20px;
+
+}
+
